@@ -1,7 +1,3 @@
-# EazoRam-Product-Landing-Page
-
-
-
 # EazoRam - Your Everyday Lifestyle Companion
 
 <!-- ![EazoRam Logo](logo.png) -->
